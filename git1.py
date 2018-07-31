@@ -1,1 +1,0 @@
-pritnt("i love git")
